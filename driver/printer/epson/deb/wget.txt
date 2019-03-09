@@ -1,0 +1,2 @@
+https://download3.ebz.epson.net/dsc/f/03/00/09/02/33/9bdd64bdf315a78d37ca74c8455a8884302e88c0/epson-printer-utility_1.0.2-1lsb3.2_i386.deb
+https://download3.ebz.epson.net/dsc/f/03/00/09/02/33/71b2905a4cdf07374e83281333a767b24b57bc2d/epson-printer-utility_1.0.2-1lsb3.2_amd64.deb
